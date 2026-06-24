@@ -1,0 +1,4 @@
+preliminary_decision,borrower_count,avg_pd_score,avg_risk_score,actual_default_rate
+Approve,16000,0.2249545392580092,775.0468125,0.0780625
+Manual Review,8000,0.42203140865980304,577.97025,0.184125
+Reject,16000,0.6592258503237926,340.7746875,0.383625
