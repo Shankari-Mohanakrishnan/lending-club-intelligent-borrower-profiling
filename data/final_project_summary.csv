@@ -1,0 +1,8 @@
+metric,value
+Best PD Model,LightGBM
+Best Model ROC-AUC,0.7625
+Best Model Recall,0.6743
+Best Model Precision,0.3918
+Number of Risk Bands,5
+Top SHAP Feature,sub_grade_num
+Portfolio Comparison Available,Yes
